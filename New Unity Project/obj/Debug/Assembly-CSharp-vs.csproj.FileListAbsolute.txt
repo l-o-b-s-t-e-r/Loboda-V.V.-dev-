@@ -1,0 +1,12 @@
+C:\Users\Loboda\Documents\New Unity Project\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Loboda\Documents\New Unity Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Loboda\Documents\New Unity Project\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Loboda\Documents\New Unity Project\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Loboda\Documents\New Unity Project\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Loboda\Documents\New Unity Project\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Loboda\Documents\New Unity Project\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Loboda\Documents\New Unity Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Loboda\Documents\New Unity Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Loboda\Documents\New Unity Project\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Loboda\Documents\New Unity Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\Loboda\Documents\New Unity Project\obj\Debug\Assembly-CSharp.pdb
